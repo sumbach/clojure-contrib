@@ -86,4 +86,10 @@
       </snapshots>
     </repository>
   </repositories>
+  <pluginRepositories>
+    <pluginRepository>
+      <id>clojars.org</id>
+      <url>http://clojars.org/repo/</url>
+    </pluginRepository>
+  </pluginRepositories>
 </project>
